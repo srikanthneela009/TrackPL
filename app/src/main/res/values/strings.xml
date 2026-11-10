@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">TrackPL</string>
+    <string name="title_activity_main">TrackPL</string>
+    <string name="package_name">com.srikanthneela.calendarapp</string>
+    <string name="custom_url_scheme">com.srikanthneela.calendarapp</string>
+    <string name="server_client_id">810108159250-h2893af8f1saj1ov41kvpa329tu196uu.apps.googleusercontent.com</string>
+</resources>
